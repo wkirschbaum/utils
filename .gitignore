@@ -1,1 +1,6 @@
+# special files
 *~
+\#*#
+
+# special directories
+compiled/
